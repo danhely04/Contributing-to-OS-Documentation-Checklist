@@ -1,7 +1,7 @@
 ## Contributing to Open Source Documentation Checklist
 
 - **Community and Collaboration**
-  - [ ] Does my project have a community section?
+  - [X] Does my project have a community section?
   - [ ] Is there a code of conduct established for contributors?
   - [ ] Are clear guidelines provided for first-time contributors?
 
